@@ -1,8 +1,8 @@
-#  👋 Hi, I'm Edoardo Barigliano (Kyyros04)
+# 👋 Hi, I'm Edoardo Barigliano (Kyyros04)
 
-# 🚀 Software Engineer & Game Developer
+### 🚀 Aspiring Software Engineer & Game Developer
 
-# 👀 **Looking for:** Junior Software Engineer or Junior Game Developer positions.
+* 👀 **Looking for:** Junior Software Engineer or Junior Game Developer positions.
 
 <!---
 Kyyros04/Kyyros04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
